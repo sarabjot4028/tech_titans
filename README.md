@@ -29,3 +29,8 @@ Tester-
 There are some errors in the program.
 
 1. Hangman pics are not being displayed if the guess is wrong.
+
+   Developer-
+
+   The Error Mentioned by the Testers have been fixed and the code has been uploaded.
+   
