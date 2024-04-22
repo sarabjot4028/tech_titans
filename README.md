@@ -39,4 +39,8 @@ There are some errors in the program.
 There are some errors in program.
    
  1. There is no option to play again.
+
+    Developer-
+
+    The Error Mentioned by the Testers have been fixed and the code has been uploaded.
    
