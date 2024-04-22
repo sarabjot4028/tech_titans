@@ -33,4 +33,10 @@ There are some errors in the program.
    Developer-
 
    The Error Mentioned by the Testers have been fixed and the code has been uploaded.
+
+   Tester-
+
+There are some errors in program.
+   
+ 1. There is no option to play again.
    
