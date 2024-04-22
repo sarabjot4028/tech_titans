@@ -1,10 +1,8 @@
 Project Title - Creating Hangman Game on Python
 
-Project Manager - Sarabjot Singh
+Project Manager,Tester - Sarabjot Singh
 
 Developer - Manwinderpreet Singh
-
-Tester - Kartik Jindal
 
 Project Manager-
 
