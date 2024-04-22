@@ -28,22 +28,4 @@ Tester-
 
 There are some errors in the program.
 
-Hangman pics are not being displayed if the guess is wrong.
-There is no option to play again.
-Developer -
-
-The errors mentioned by the tester have been fixed and the code has been uploaded.
-
-Tester -
-
-There are still some errors in the program.
-
-The hangman pics are being shown in the reverse order.
-The last hangman pic is not being shown if all guesses are wrong.
-Developer -
-
-The errors mentioned by the tester have been fixed and the code has been uploaded.
-
-Tester -
-
-The code is now working properly and is ready for final release.
+1. Hangman pics are not being displayed if the guess is wrong.
